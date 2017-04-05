@@ -1,0 +1,4 @@
+
+<?php
+$currentUser = 1;
+?>
